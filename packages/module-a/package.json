@@ -12,5 +12,6 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "88c91f0af635bf2618296832ed1ee5612c3b12da"
 }

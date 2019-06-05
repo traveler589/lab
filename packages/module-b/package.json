@@ -12,5 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "@lab/module-a": "^1.0.2"
-  }
+  },
+  "gitHead": "88c91f0af635bf2618296832ed1ee5612c3b12da"
 }
