@@ -1,0 +1,14 @@
+{
+  "lerna": "^3.14.1",
+  "version": "independent",
+  "npmClientArgs": [
+    "--no-lockfile"
+  ],
+  "packages": [
+    "packages/*"
+  ],
+  "ignoreChanges": [
+  	"*.md",
+    "**/*.md"
+  ]
+}
