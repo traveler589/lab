@@ -1,0 +1,16 @@
+{
+  "name": "@lab/module-a",
+  "version": "0.0.2",
+  "description": "a module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/traveler589/lab.git",
+    "directory": "packages/module-a"
+  },
+  "main": "index.js",
+  "author": "L",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@lab/module-b",
+  "version": "0.0.2",
+  "description": "a module b",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/traveler589/lab.git",
+    "directory": "packages/module-b"
+  },
+  "main": "index.js",
+  "author": "L",
+  "license": "MIT",
+  "dependencies": {
+    "@lab/module-a": "^1.0.2"
+  }
+}
