@@ -1,6 +1,6 @@
 {
-  "name": "@lab/module-b",
-  "version": "0.0.4",
+  "name": "@lab/module-bb",
+  "version": "0.0.5",
   "description": "a module b",
   "main": "index.js",
   "author": "L",
@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/traveler589/lab.git",
-    "directory": "packages/module-b"
+    "directory": "packages/module-bb"
   },
   "dependencies": {
     "@lab/module-a": "^1.0.2"
