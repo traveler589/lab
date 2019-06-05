@@ -1,17 +1,19 @@
 {
   "name": "@lab/module-b",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a module b",
+  "main": "index.js",
+  "author": "L",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/traveler589/lab.git",
     "directory": "packages/module-b"
   },
-  "main": "index.js",
-  "author": "L",
-  "license": "MIT",
   "dependencies": {
     "@lab/module-a": "^1.0.2"
-  },
-  "gitHead": "88c91f0af635bf2618296832ed1ee5612c3b12da"
+  }
 }
