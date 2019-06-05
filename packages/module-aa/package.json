@@ -1,6 +1,6 @@
 {
   "name": "@lab/module-aa",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "a module",
   "main": "index.js",
   "author": "L",
@@ -15,5 +15,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "c1b2bf06c6320c27338d818f26dd499e01150530"
 }
